@@ -1,1 +1,1 @@
-# detector-bordes
+# Practicando python para ciencia de datos
